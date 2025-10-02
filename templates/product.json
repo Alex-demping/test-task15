@@ -80,7 +80,7 @@
         "show_pagination": true,
         "space_between": 5,
         "media_position": "left",
-        "image_zoom": "none",
+        "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,

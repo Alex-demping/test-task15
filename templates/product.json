@@ -76,7 +76,7 @@
         "slides_desktop": 2,
         "slides_tablet": 2,
         "slides_mobile": 1,
-        "show_arrows": false,
+        "show_arrows": true,
         "show_pagination": true,
         "space_between": 5,
         "media_position": "left",

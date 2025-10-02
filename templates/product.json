@@ -75,7 +75,7 @@
         "media_fit": "contain",
         "slides_desktop": 3,
         "slides_tablet": 1,
-        "slides_mobile": 2,
+        "slides_mobile": 3,
         "show_arrows": true,
         "show_pagination": true,
         "space_between": 5,

@@ -78,7 +78,7 @@
         "slides_mobile": 1,
         "show_arrows": true,
         "show_pagination": true,
-        "space_between": 50,
+        "space_between": 5,
         "media_position": "left",
         "image_zoom": "lightbox",
         "hide_variants": true,
